@@ -1,0 +1,41 @@
+
+body {
+    background-color: lightblue;
+    font-family: Arial;
+    text-align: center;
+    margin: 20px;
+}
+h1 {
+    background-color: navy;
+    color: white;
+    padding: 20px;
+}
+h2 {
+    color: navy;
+}
+img {
+    margin: 10px;
+    border: 2px solid navy;
+}
+nav {
+    background-color: white;
+    padding: 15px;
+}
+nav a {
+    color: blue;
+    text-decoration: none;
+    margin: 10px;
+}
+nav a:hover {
+    color: red;
+}
+ul {
+    display: inline-block;
+    text-align: left;
+}
+footer {
+    background-color: navy;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
